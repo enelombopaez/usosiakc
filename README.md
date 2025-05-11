@@ -48,6 +48,7 @@ Instalación rápida:
 
 ```bash
 pip install openai
+```
 
 ## Código incluido
 
