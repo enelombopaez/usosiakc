@@ -1,2 +1,3 @@
 número_pedido,nombre_cliente,email_cliente,motivo,resultado,razón
 D347-STELLA,Darth Márquez,dmarquez@imperiumgalactic.net,Daño en transporte,REQUIERE REVISIÓN,El cliente reporta daños en los condensadores de fluzo modelo FX-88 durante el transporte interestelar. Se requiere revisión de las imágenes adjuntas y el albarán de entrega sellado por el droide de recepción para confirmar la validez de la reclamación.
+D347-STELLA,Darth Márquez,dmarquez@imperiumgalactic.net,Daños en transporte,REQUIERE REVISIÓN,"El cliente informa que los condensadores de fluzo modelo FX-88 llegaron dañados, posiblemente debido a una caída durante el transporte interestelar. Se adjuntaron imágenes y el albarán de entrega sellado para revisión."

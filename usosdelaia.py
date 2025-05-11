@@ -4,7 +4,7 @@ import json
 
 # Instancia del cliente OpenAI
 # Cosas a mejorar, se podría utilizar una variable de entorno aqui
-client = OpenAI(api_key="removing the key for security reasons")  
+client = OpenAI(api_key="removing for security reasons")  
 
 # Paso 1: Analizar el correo y extraer info estructurada
 def analizar_correo(email_texto):
@@ -48,6 +48,8 @@ según las políticas de Componentes Intergalácticos Industriales S.A.:
 - Acepta solo si hay defecto de fabricación, error en suministro o producto incompleto de origen.
 - Rechaza si los daños son por transporte no asegurado o mal uso.
 - Si la información no es clara, pide más detalles.
+
+Firma la respuesta con el nombre "Nelson Lombo" y añade en la linea siguiente "Equipo de Soporte promovido por Inteligencia Artificial"
 
 Correo del cliente:
 \"\"\"
