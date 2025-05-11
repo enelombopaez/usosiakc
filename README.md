@@ -64,24 +64,25 @@ Firmar automáticamente la respuesta con el nombre del agente ("Nelson Lombo").
 
 ## Posibles mejoras
 
-Integración con servicios de correo electrónico (Gmail, Outlook).
+- Integración con servicios de correo electrónico (Gmail, Outlook).
 
-Conexión a base de datos de pedidos para validación automática.
+- Conexión a base de datos de pedidos para validación automática.
 
-Interfaz web para revisión y control de respuestas.
+- Interfaz web para revisión y control de respuestas.
 
-Compatibilidad multilingüe.
+- Compatibilidad multilingüe.
 
-Añadir memoria de interacciones previas por cliente.
+- Añadir memoria de interacciones previas por cliente.
 
-Incorporar flujos más complejos con herramientas como LangChain.
+- Incorporar flujos más complejos con herramientas como LangChain.
 
 ## Estructura del proyecto
 
+```bash
 cii_autoresponder.py    # Script principal
 casos.csv               # Registro de resultados de análisis
 README.md               # Este archivo con la explicación del proyecto
-
+```
 
 ## Autor
 
